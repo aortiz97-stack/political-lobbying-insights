@@ -12,3 +12,14 @@ Apply AI and other technologies to analyze the data and drive insight.
 
 Display data via profile of individual, organizations, activity type, geographically(physical and political)
 
+<b>Data sets to use:</b>
+<ul>
+  <li><a href='https://data.cityofchicago.org/Ethics/Lobbyist-Data-Lobbyists/s6pm-ay8t'>Lobbyist Data - Lobbyist</a></li>
+  <li><a href-'https://data.cityofchicago.org/Ethics/Lobbyist-Data-Lobbying-Activity/pahz-egmi'>Lobbyist Data - Lobbying Activity</a></li>
+  <li><a href='https://data.cityofchicago.org/Ethics/Lobbyist-Data-Employers/94gr-m4gv'>Lobbyist Data - Employers</a></li>
+  <li><a href='https://data.cityofchicago.org/Ethics/Lobbyist-Data-Contributions/p9p7-vfqc'>Lobbyist Data - Contributions</a></li>
+  <li><a href='https://data.cityofchicago.org/Ethics/Lobbyist-Data-Compensation/dw2f-w78u'>Lobbyist Data - Compensation</a></li>
+  <li><a href='https://data.cityofchicago.org/Ethics/Lobbyist-Data-Compensation/dw2f-w78u'>Lobbyist Data - Clients</a></li>
+</ul>
+
+
