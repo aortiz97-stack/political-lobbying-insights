@@ -19,7 +19,7 @@ Display data via profile of individual, organizations, activity type, geographic
   <li><a href='https://data.cityofchicago.org/Ethics/Lobbyist-Data-Employers/94gr-m4gv' target='_blank'>Lobbyist Data - Employers</a></li>
   <li><a href='https://data.cityofchicago.org/Ethics/Lobbyist-Data-Contributions/p9p7-vfqc' target='_blank'>Lobbyist Data - Contributions</a></li>
   <li><a href='https://data.cityofchicago.org/Ethics/Lobbyist-Data-Compensation/dw2f-w78u' target='_blank'>Lobbyist Data - Compensation</a></li>
-  <li><a href='https://data.cityofchicago.org/Ethics/Lobbyist-Data-Compensation/dw2f-w78u' target='_blank'>Lobbyist Data - Clients</a></li>
+  <li><a href='https://data.cityofchicago.org/Ethics/Lobbyist-Data-Clients/g8p5-y4m5' target='_blank'>Lobbyist Data - Clients</a></li>
 </ul>
 
 
