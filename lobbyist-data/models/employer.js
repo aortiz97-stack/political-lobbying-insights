@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 const { Schema } = mongoose;
 
-const ClientSchema = new Schema({
+const EmployerSchema = new Schema({
   name: { type: String, required: true },
   address1: { type: String },
   address2: { type: String },
@@ -10,7 +10,9 @@ const ClientSchema = new Schema({
   state: { type: String },
   zipcode: { type: String },
   country: { type: String },
+  phone: { type: String },
   active: { type: String, required: true },
+
 });
 
-module.exports = mongoose.model('Client', ClientSchema);
+module.exports = mongoose.model('Employer', EmployerSchema);
