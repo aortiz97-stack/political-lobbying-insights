@@ -9,6 +9,7 @@ const ActivitySchema = new Schema({
   actionDescription: { type: String, required: true },
   target: { type: String, required: true },
   client: { type: Schema.Types.ObjectId, ref: 'Client' },
+  lobbyist: { type: Schema.Types.ObjectId, ref: 'Lobbyist' },
 });
 
 module.exports = mongoose.model('Activity', ActivitySchema);
